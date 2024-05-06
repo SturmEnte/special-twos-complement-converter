@@ -46,6 +46,7 @@ double ConvertSpecialTwosComplement(byte byte1, byte byte2)
     return result;
 }
 
+// The code bellow was partialy made with Google Gemini
 short[] GetBitArray(byte b)
 {
     bool[] bitArrayBool = new bool[8];
