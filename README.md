@@ -1,3 +1,3 @@
 ## Notice
 
-This code is not very efficient and could maybe have some issues
+This code is not very efficient and may have some issues
